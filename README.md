@@ -15,7 +15,11 @@ A responsive static UI prototype for the Deltablock company portal. It uses HTML
 
 Open `index.html` in a browser, or serve the project directory with a local static web server. For example, with Python installed:
 
+```powershell
+python -m http.server 8000
+```
 
+Then visit `http://localhost:8000`.
 
 ## Build CSS
 
